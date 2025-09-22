@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Mobile Safari/537.36" version="28.2.4">
   <diagram name="Page-1" id="dXq6WlskRH7AbOD8Zjuj">
-    <mxGraphModel dx="1020" dy="1863" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="510" dy="931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -166,8 +166,8 @@
         <mxCell id="EZT8Fwv9AmYx2iff5m9D-4" value="weather_id" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="490" y="460" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="EZT8Fwv9AmYx2iff5m9D-5" value="Attribute" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="660" y="250" width="100" height="40" as="geometry" />
+        <mxCell id="EZT8Fwv9AmYx2iff5m9D-5" value="ATTRIBUTE" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="630" y="290" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EZT8Fwv9AmYx2iff5m9D-6" value="traffic_level" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="350" y="630" width="100" height="40" as="geometry" />
@@ -280,8 +280,8 @@
         <mxCell id="EZT8Fwv9AmYx2iff5m9D-42" value="Attribute" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="880" y="315" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="EZT8Fwv9AmYx2iff5m9D-43" value="Attribute" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="660" y="750" width="100" height="40" as="geometry" />
+        <mxCell id="EZT8Fwv9AmYx2iff5m9D-43" value="origin" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="490" y="640" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EZT8Fwv9AmYx2iff5m9D-44" value="Attribute" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="880" y="490" width="100" height="40" as="geometry" />
@@ -295,8 +295,8 @@
         <mxCell id="EZT8Fwv9AmYx2iff5m9D-47" value="transport_id" style="ellipse;whiteSpace=wrap;html=1;align=center;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="470" y="550" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="EZT8Fwv9AmYx2iff5m9D-48" value="Attribute" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="820" y="560" width="100" height="40" as="geometry" />
+        <mxCell id="EZT8Fwv9AmYx2iff5m9D-48" value="destination" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="560" y="670" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EZT8Fwv9AmYx2iff5m9D-49" value="Attribute" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="980" y="460" width="100" height="40" as="geometry" />
@@ -320,10 +320,10 @@
           <mxGeometry x="500" y="590" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EZT8Fwv9AmYx2iff5m9D-56" value="departure_time" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="580" y="570" width="100" height="40" as="geometry" />
+          <mxGeometry x="580" y="580" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EZT8Fwv9AmYx2iff5m9D-57" value="arrival_time" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="580" y="610" width="100" height="40" as="geometry" />
+          <mxGeometry x="590" y="625" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
