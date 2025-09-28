@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.5">
   <diagram name="Page-1" id="dXq6WlskRH7AbOD8Zjuj">
-    <mxGraphModel dx="2377" dy="1268" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1678" dy="895" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -197,10 +197,10 @@
           <mxGeometry x="1960" y="545" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EZT8Fwv9AmYx2iff5m9D-23" value="user_id" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="1955" y="60" width="100" height="40" as="geometry" />
+          <mxGeometry x="160" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EZT8Fwv9AmYx2iff5m9D-24" value="route_id" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="1995" y="110" width="100" height="40" as="geometry" />
+          <mxGeometry x="40" y="40" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EZT8Fwv9AmYx2iff5m9D-25" value="Attribute" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="2270" y="210" width="100" height="40" as="geometry" />
@@ -209,7 +209,7 @@
           <mxGeometry x="2060" y="460" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EZT8Fwv9AmYx2iff5m9D-27" value="prediction_id" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="1875" y="90" width="100" height="40" as="geometry" />
+          <mxGeometry x="280" y="40" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EZT8Fwv9AmYx2iff5m9D-28" value="created_at" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="2065" y="140" width="100" height="40" as="geometry" />
@@ -241,11 +241,11 @@
         <mxCell id="EZT8Fwv9AmYx2iff5m9D-37" value="Attribute" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="2280" y="310" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="EZT8Fwv9AmYx2iff5m9D-38" value="reason" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="1955" y="220" width="100" height="40" as="geometry" />
+        <mxCell id="EZT8Fwv9AmYx2iff5m9D-38" value="prediction_text" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="320" y="200" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EZT8Fwv9AmYx2iff5m9D-39" value="predicted_travel_time_minutes" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="1875" y="180" width="100" height="40" as="geometry" />
+          <mxGeometry x="230" y="670" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EZT8Fwv9AmYx2iff5m9D-40" value="reminder_id" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="1970" y="440" width="100" height="40" as="geometry" />
@@ -260,7 +260,7 @@
           <mxGeometry x="1100" y="355" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EZT8Fwv9AmYx2iff5m9D-44" value="weather_id" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="1875" y="135" width="100" height="40" as="geometry" />
+          <mxGeometry x="320" y="120" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EZT8Fwv9AmYx2iff5m9D-45" value="message" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="1180" y="540" width="100" height="40" as="geometry" />
@@ -281,7 +281,7 @@
           <mxGeometry x="1120" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EZT8Fwv9AmYx2iff5m9D-52" value="suggested_departure_time" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="1995" y="180" width="100" height="40" as="geometry" />
+          <mxGeometry x="350" y="670" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EZT8Fwv9AmYx2iff5m9D-53" value="Attribute" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="2220" y="230" width="100" height="40" as="geometry" />
